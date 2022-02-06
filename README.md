@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepkota
 - 👀 I’m interested in everything about programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning zio-*
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @SKotaTweets on twitter
 
